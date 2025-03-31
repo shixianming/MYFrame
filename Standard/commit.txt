@@ -1,0 +1,16 @@
+#提交规范
+[type]--subject
+============================
+[init]--初始化
+[feat]--新功能/新特性等
+[change]--功能修改/变动
+[fix]--修复bug
+[doc]--文档
+[style]--代码格式化
+[refactor]--重构
+[pref]--性能优化
+[test]--测试代码
+[chore]--构建过程火辅助工具
+[revert]--回滚
+[merge]--合并
+[sync]--同步
