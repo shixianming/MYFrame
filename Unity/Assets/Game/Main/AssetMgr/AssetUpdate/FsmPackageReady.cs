@@ -1,4 +1,4 @@
-﻿namespace Main
+﻿namespace Game.Runtime
 {
     public class FsmPackageReady : FsmBase
     {
@@ -8,7 +8,6 @@
         {
             base.OnCreate(machine);
             _owner = _machine.Owner as AssetOperation;
-
         }
 
         public override void OnEnter()

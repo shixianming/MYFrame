@@ -1,7 +1,7 @@
 ﻿using YooAsset;
 using Cysharp.Threading.Tasks;
 
-namespace Main
+namespace Game.Runtime
 {
     public class FsmDownloadPackageFiles : FsmBase
     {

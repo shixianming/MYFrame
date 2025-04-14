@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics;
 using Debug = UnityEngine.Debug;
 
-namespace Main
+namespace Game.Runtime
 {
     public static class Logger
     {

@@ -1,6 +1,6 @@
 ﻿using YooAsset;
 
-namespace Main
+namespace Game.Runtime
 {
     public class AssetOperation : GameAsyncOperation
     {

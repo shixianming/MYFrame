@@ -1,5 +1,5 @@
 {
-    "name": "Main",
+    "name": "Game.Runtime",
     "rootNamespace": "",
     "references": [
         "GUID:13ba8ce62aa80c74598530029cb2d649",

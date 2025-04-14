@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Main
+namespace Game.Runtime
 { 
     public interface IStateNode
     {

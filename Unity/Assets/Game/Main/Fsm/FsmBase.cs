@@ -1,4 +1,4 @@
-﻿namespace Main
+﻿namespace Game.Runtime
 {
     public class FsmBase : IStateNode
     {

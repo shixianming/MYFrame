@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root Version="v2.1">
+  <Common ShowPackageView="True" ShowEditorAlias="False" UniqueBundleName="False" />
+  <Package PackageName="DefaultPackage" PackageDesc="Res" AutoAddressable="True" LocationToLower="False" IncludeAssetGUID="False" IgnoreRuleName="NormalIgnoreRule">
+    <Group GroupActiveRule="EnableGroup" GroupName="Animation" GroupDesc="" AssetTags="" />
+    <Group GroupActiveRule="EnableGroup" GroupName="Code" GroupDesc="" AssetTags="" />
+    <Group GroupActiveRule="EnableGroup" GroupName="UISprites" GroupDesc="" AssetTags="">
+      <Collector CollectPath="Assets/Res/UISprites/TestPanel" CollectGUID="76395f9ea7949bb4a86a4ea186466b29" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectAll" UserData="" AssetTags="" />
+    </Group>
+  </Package>
+</root>
